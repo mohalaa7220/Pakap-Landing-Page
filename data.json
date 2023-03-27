@@ -1,0 +1,74 @@
+{
+    "featured": [
+
+        {
+            "title": "High Resolution",
+            "desc": "Just log in with your mail account from play store and using whatever you want for your able business purpose.",
+            "icon": "eye"
+        }, {
+            "title": "Retina Ready Screen",
+            "desc": "Just log in with your mail account from play store and using whatever you want for your able business purpose.",
+            "icon": "comment-lines"
+        }, {
+            "title": "Easy Editable Data",
+            "desc": "Just log in with your mail account from play store and using whatever you want for your able business purpose.",
+            "icon": "edit"
+        }, {
+            "title": "Fully Secured",
+            "desc": "Just log in with your mail account from play store and using whatever you want for your able business purpose.",
+            "icon": "shield-check"
+        }, {
+            "title": "Cloud Storage",
+            "desc": "Just log in with your mail account from play store and using whatever you want for your able business purpose.",
+            "icon": "cloud-check"
+        }, {
+            "title": "Responsive Ready",
+            "desc": "Just log in with your mail account from play store and using whatever you want for your able business purpose.",
+            "icon": "chart-pie"
+        }
+
+    ],
+
+    "pricing": [
+
+        {
+            "title": "Basic",
+            "desc": "Powerful & awesome elements",
+            "price": "$40/Month",
+            "feat": ["Up to 10 Website", "Lifetime free Support", "10 GB Dedicated Hosting free", "24/7 Hours Support"]
+        },
+        {
+            "title": "Small Team",
+            "desc": "Powerful & awesome elements",
+            "price": "$59/Month",
+            "feat": ["Up to 10 Website", "Lifetime free Support", "10 GB Dedicated Hosting free", "24/7 Hours Support", "SEO Optimized", "Live Support"]
+        },
+        {
+            "title": "Business",
+            "desc": "Powerful & awesome elements",
+            "price": "$69 /Month",
+            "feat": ["Up to 10 Website", "Lifetime free Support", "10 GB Dedicated Hosting free", "24/7 Hours Support", "SEO Optimized"]
+        }
+
+    ],
+
+    "blogs": [
+
+        {
+            "title": "Branding involves developing strategy to create a point of differentiation",
+            "image": "./assets/blog-1.webp",
+            "time": "April 14, 2021"
+        },
+        {
+            "title": "Branding involves developing strategy to create a point of differentiation",
+            "image": "./assets/blog-2.webp",
+            "time": "April 20, 2021"
+        },
+        {
+            "title": "Branding involves developing strategy to create a point",
+            "image": "./assets/blog-3.webp",
+            "time": "April 30, 2021"
+        }
+
+    ]
+}
